@@ -4,7 +4,6 @@ import 'package:pausable_timer/pausable_timer.dart';
 import 'package:cuber/cuber.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-//try
 void main() {
   runApp(const MyApp());
 }
